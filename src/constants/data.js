@@ -9,7 +9,7 @@ export const events=[
         month:"Abr",
 
         clasifitacion:"+18",
-        image:"https://ideogram.ai/api/images/direct/MmYIGWKfSxSR4qIGK4IShg.jpg",
+        image:"https://res.cloudinary.com/dsmiexs43/image/upload/f_auto,q_auto/v1/challengue-grid-baner/tyeohl3xshu0i3oxsgjr",
     },
     {
         id:"2",
@@ -21,7 +21,7 @@ export const events=[
         month:"Abr",
 
         clasifitacion:"+21",
-        image:"https://ideogram.ai/api/images/direct/BEbWmxsQQ-KMKAw-OTJgrA.jpg",
+        image:"https://res.cloudinary.com/dsmiexs43/image/upload/f_auto,q_auto/v1/challengue-grid-baner/cr38hh1nvnpr95dgzet8",
     },
     {
         id:"3",
@@ -33,7 +33,7 @@ export const events=[
         month:"May",
 
         clasifitacion:"+20",
-        image:"https://ideogram.ai/api/images/direct/4dW4_kwhTAWqObC8savDUg.jpg",
+        image:"https://res.cloudinary.com/dsmiexs43/image/upload/f_auto,q_auto/v1/challengue-grid-baner/f6faxcmkpfxoheb3bedx",
     },
     {
         id:"4",
@@ -45,7 +45,7 @@ export const events=[
         month:"May",
 
         clasifitacion:"+18",
-        image:"https://ideogram.ai/api/images/direct/twfwoGYbT8C6Dz1zPFfRiQ.jpg",
+        image:"https://res.cloudinary.com/dsmiexs43/image/upload/f_auto,q_auto/v1/challengue-grid-baner/pkvyvm8abk75yjitgktx",
     },
     {
         id:"5",
@@ -57,7 +57,7 @@ export const events=[
         month:"May",
 
         clasifitacion:"+21",
-        image:"https://ideogram.ai/api/images/direct/WHMD5tbeS1KFiVR7m5wtsQ.jpg",
+        image:"https://res.cloudinary.com/dsmiexs43/image/upload/f_auto,q_auto/v1/challengue-grid-baner/kzruhmmfldwtah9qjqky",
     },
     {
         id:"6",
@@ -69,7 +69,7 @@ export const events=[
         month:"May",
 
         clasifitacion:"+19",
-        image:"https://ideogram.ai/api/images/direct/7I4O4Tz_T6mjmRE8sR4wwg.jpg",
+        image:"https://res.cloudinary.com/dsmiexs43/image/upload/f_auto,q_auto/v1/challengue-grid-baner/nzraz0sziskxebsb825f",
     },
     {
         id:"7",
@@ -80,7 +80,7 @@ export const events=[
         date:"25 ",
         month:"May",
         clasifitacion:"+16",
-        image:"https://ideogram.ai/api/images/direct/1S0QF_SfRFa2ONQxsZ-jHw.jpg",
+        image:"https://res.cloudinary.com/dsmiexs43/image/upload/f_auto,q_auto/v1/challengue-grid-baner/kd7mlzruefcujankribd",
     },
     {
         id:"8",
@@ -92,6 +92,6 @@ export const events=[
         month:"Jun",
 
         clasifitacion:"+18",
-        image:"https://ideogram.ai/api/images/direct/OTYRhB5_QqiL9zh83O0PzA.jpg",
+        image:"https://res.cloudinary.com/dsmiexs43/image/upload/f_auto,q_auto/v1/challengue-grid-baner/cr38hh1nvnpr95dgzet8",
     }
 ]
