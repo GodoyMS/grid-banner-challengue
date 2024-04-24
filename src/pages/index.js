@@ -27,7 +27,7 @@ const Grid = () => {
           Consulta los eventos próximos que tenemos para ti:
         </p>
       </div>
-      <div className=" flex flex-col gap-4 sm:grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mt-12">
+      <div className=" flex flex-col gap-6 md:gap-8  sm:grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mt-12">
         {events.map((e) => (
           <div className="  shadow-lg rounded-md relative flex flex-col">
             <div
